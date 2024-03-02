@@ -22,6 +22,6 @@ class KontoBankowe:
 
 # Użycie klasy
 konto = KontoBankowe('123456789', 1000)
-konto.wplac_pieniadze(500)
-konto.wyplac_pieniadze(200)
+konto.wplac_pieniadze(600)
+konto.wyplac_pieniadze(300)
 konto.pokaz_stan_konta()  # Wypisze aktualny stan konta
